@@ -1,0 +1,15 @@
+/* file: styles.css */
+
+@font-face { font-family: Lydian; src: url('lydian__.ttf'); }
+@font-face { font-family: ETBembo; src: url('et-book-roman-line-figures.ttf'); }
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
+
+.v-center-container {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
