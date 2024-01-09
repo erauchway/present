@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+
+// colors
+$body-color: #8B4513 !default;
+$body-bg: #FAEBD7 !default;
+
+
+// fonts
+$font-family-sans-serif: "ETBembo" !important;
+$presentation-heading-color: $body-color !important;
+$presentation-title-slide-text-align: left;
+
+//headings
+$presentation-heading-font: "Lydian";
+
+
+
+/*-- scss:rules --*/
+
+
+.footer {
+    bottom: 0px;
+    color: #8B864E !important;
+}
+
+.reveal .progress {
+    color: #68838B;
+    height: 3px;
+    background: $body-bg;
+}
+
+.slide-number {
+    color: $body-color !important;
+}
+
+.reveal .slide-number > a[href*='title-slide'] {
+    display: none;
+}
+
+.quarto-layout-cell img{
+    max-height: 275px;
+}
