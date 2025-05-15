@@ -160,7 +160,7 @@ The New Deal brought the Virgin Islands not only repeal, but---to spur it onward
 
 ![](./media_onedrive/ghrum.png){fig-align="center"}
 
-![](./media_onedrive/government_house.png){fig-align="center"}
+![](./media_onedrive/government_house.png){fig-align="center" width="85%"}
 :::
 
 
@@ -210,7 +210,7 @@ It is a commonplace of the literature that none of the hoped-for sister agencies
 
 :::
 
-## Laboratories: the Virgin Islands
+## Laboratories: the Virgin Islands{auto-animate=TRUE transition-speed="slow"}
 
 ![](./media_onedrive/hastie.jpg){fig-align="center"}
 
@@ -234,13 +234,11 @@ Moreover, implementing the New Deal in the Virgin Islands entailed a much firmer
 Roosevelt's personal involvement was essential to the territorial New Deal generally. In 1934 he visited Puerto Rico, the Virgin Islands, and Hawaiʻi (he would visit Alaska later). As he said when embarking, the trip—and the New Deal—would emphasize that the US citizens of the territories were just as much "fellow Americans" as anyone else. In each of the territories, he gave a speech emphasizing that "the American family" encompassed the territories. [@franklindRadio1934-07-28; @frankind.Radio1934; @frankind.Radio1934]
 :::
 
-## Laboratories: Hawaiʻi{auto-animate=TRUE transition-speed="slow"}
+## Laboratories: Hawaiʻi{transition-speed="slow"}
 
-![](./media_onedrive/hawaiistrike520x300.jpg){fig-align="center"}
-
-## Laboratories: Hawaiʻi
-
-![](./media_onedrive/eqis.png){fig-align="center"}
+:::{.v-center-container}
+![](./media_onedrive/eqis.png){fig-align="center" width="85%"}
+:::
 
 :::{.notes}
 The territorial New Dealers believed different parts of the American family were best suited to different kinds of jobs. Beginning in 1935, the Roosevelt administration began selecting young Native Hawaiian men from the Kamehameha School for Boys in Honolulu to establish or confirm US claims to the tiny equatorial group of Baker, Howard, and Jarvis islands, which were more than 1000 miles from the Hawaiian isles. On these idyllic beaches, enjoying tropical breezes, these men would fish, surf, and survey the tides and weather. "American citizens of Hawaiian or part-Hawaiian ancestry were selected because of their adaptability to prevailing conditions and their proximity to the Equatorial Islands," as an Interior Department memo explained.[@usdepartmGeneral1942] The settlers, as they were called, initially spent most of their days working to "construct their respective surfboards. . . . playing the ukulele, reading and swimming."[@millerFourth1936, p. entry for September 24, 1936] 
@@ -249,7 +247,21 @@ For Roosevelt and other New Dealers, public employment served the purpose not on
 :::
 
 
-## Laboratories: Alaska
+## Laboratories: Hawaiʻi{auto-animate=TRUE transition-speed="slow"}
+
+:::{.v-center-container}
+![](./media_onedrive/hawaiistrike520x300.jpg){fig-align="center" width="1000"}
+:::
+
+:::{.notes}
+Transformative power: Wagner Act. 
+A handful of shipping, pineapple, and sugar firms—commonly known as the “Big Five”—effectively ran the Hawaiian economy from the 1890s to the 1930s. For decades, to maintain control over their workforce, these oligarchs ruthlessly suppressed unionization among their workers. The passage of New Deal labor laws like the National Labor Relations Act, or Wagner Act, did not initially concern them. When, in 1937, the National Labor Relations Board held a hearing in Honolulu on unfair labor practices, a shipping magnate joked in his testimony that he saw no need to obey the Wagner Act “any more than the Desha Bathing Suit Law,” a seldom enforced local statute requiring a coverup. 
+On the sixth day of the hearings, though, the Supreme Court upheld the constitutionality of the Wagner Act. The NLRB told all employers to comply with the law, while the trial examiner in Honolulu found that Hawaiian employers had violated the Wagner act and ordered Castle & Cooke, one of the Big Five, to reinstate with back pay for 11 workers unfairly dismissed during a 1936 strike. The passage of the law (and the Supreme Court decision to uphold it) marked “an unmistakable inflection point in the trajectory of Hawaii’s working class,” according to a leading historian of Hawaiian labor movements.  The federal government made it clear that it would support unions against their employers, even in this Pacific territory.
+Before 1937, no union of workers in the pineapple, sugar, or shipping industries had succeeded in winning a contract, or even winning recognition, from their employers. By 1941, newly powerful unions had won contracts in all of Hawaiʻi’s major industries. In 1945, the territorial legislature passed the strongest pro-labor bill in the nation, protecting the right to organize not only for industrial workers but also farm laborers.
+
+:::
+
+## Laboratories: Alaska{auto-animate=TRUE transition-speed="slow"}
 
 :::{.v-center-container}
 ```{=revealjs}
@@ -265,9 +277,26 @@ For Roosevelt and other New Dealers, public employment served the purpose not on
 While Native Alaskans would benefit from the Indian Reorganization Act—which provided at long last a set of rights they had been promised at the time of Alaska's purchase from the United States—perhaps the most ambitious reformist project in Alaska was an identifiably settler-colonial program, the Matanuska Colony. Starting in 1935, social workers in Upper Midwestern states chose destitute farm families to move more than 4,000 miles to the north and west to homestead in the Matanuska Valley near Anchorage. The social workers who chose the 1,000 initial colonists were told to look for experienced, young, and healthy farm families with four to six children, "of Nordic or North European stock"---allegedly because they could withstand the cold and would form a more "homogeneous" society. According to the guidelines given the social workers who chose them, the colonists also needed to be desperately poor, but "because of the depression and not because of factors within themselves."[@Selection] These white pioneers were given 40-acre homesteads and put to work on a collective farm.
 :::
 
+## Laboratories: Alaska
+
+:::{.v-center-container}
+![](./media_onedrive/westward.png)
+:::
+
+:::{.notes}
+Lots of press coverage and excitement.
+:::
+
 ## Laboratories: Puerto Rico{auto-animate=TRUE transition-speed="slow"}
 
 ![](./media_onedrive/Catano-PR-Cement-Plant-2.jpg){fig-align="center"}
+
+:::{.notes}
+In Puerto Rico, we find the imperial nature of the territorial New Deal comes into sharpest relief. Describe PR political economy: much more populous, much poorer, plus regularly battered by hurricanes. Absentee landowners, landless farmworkers. How does ND respond? With lots of same programs as on mainland, with huge effect. Health, vaccinations, hospitals, education, roads. Dams, public power, cement plant. 
+
+Here, reformers—notably, Ernest Gruening who in addition to heading DTIP took personal charge of the Puerto Rico Reconstruction Administration, and Rexford Tugwell, the agricultural economist and later governor of Puerto Rico, as well as Puerto Rican politician and activist Luis Muñoz Marin—started out the New Deal with the ambition of establishing a program with a similar scope to the Virgin Islands Company, but on a much larger scale. They would likewise increase hydroelectric and irrigation capacity for the island, using the facilities of their own cement plant built in consultation with the Tennessee Valley Authority and invest heavily in public health.(Specific reference to the VICO “Report of the Puerto Rico Policy Commission” 1934, 18)
+
+:::
 
 ## Laboratories: Puerto Rico
 
@@ -282,13 +311,12 @@ While Native Alaskans would benefit from the Indian Reorganization Act—which p
 :::
 
 :::{.notes}
-In Puerto Rico, we find the imperial nature of the territorial New Deal comes into sharpest relief. Here, reformers---notably, Ernest Gruening who in addition to heading DTIP took personal charge of the Puerto Rico Reconstruction Administration, and Rexford Tugwell, the agricultural economist and later governor of Puerto Rico, as well as Puerto Rican politician and activist Luis Muñoz Marin---started out the New Deal with the ambition of establishing a program with a similar scope to the Virgin Islands Company, but on a much larger scale. They would enforce a dormant law restricting the size of single land-holdings and redistribute land as farms to smallholders, with the produce to be bought by publicly owned sugar mills. They would likewise increase hydroelectric and irrigation capacity for the island, using the facilities of their own cement plant built in consultation with the Tennessee Valley Authority and invest heavily in public health.[Specific reference to the VICO @Report1934, 18]
+They would enforce a dormant law restricting the size of single land-holdings and redistribute land as farms to smallholders, with the produce to be bought by publicly owned sugar mills. They would likewise increase hydroelectric and irrigation capacity for the island, using the facilities of their own cement plant built in consultation with the Tennessee Valley Authority and invest heavily in public health. 
 
 While most of this agenda would eventually be implemented and indeed, Puerto Rico would see considerable investment in public works, health, and education, the idea of a central agency carrying it out along the lines of VICO or TVA would fail owing chiefly to the way nationalism was translated into local territorial politics. The dominant faction in Puerto Rico was a coalition between the local Republican Party—which represented business, and specifically sugar, interests—and the local Socialist Party. Unlikely as such a coalition might seem, it made sense because both favored statehood for the archipelago rather than independence, which was the preferred position of the Liberal Party led by Luis Muñoz Marin.
 
-The conservative business interests in Puerto Rico thus had far more political power than anywhere else in the territories, owing to the split over nationalism, and were able to delay New Deal programs. Eventually, the rise of a more aggressive nationalist party in favor of more immediate independence and opposition to the New Deal—because it was a colonialist program—also contributed to the New Dealers' frustrations there.
+The conservative business interests in Puerto Rico thus had far more political power than anywhere else in the territories, owing to the split over nationalism, and were able to delay New Deal programs. Eventually, the rise of a more aggressive nationalist party in favor of more immediate independence and opposition to the New Deal—because it was a colonialist program—also contributed to the New Dealers’ frustrations there.
 
-The dramatic material successes of the New Deal in Puerto Rico, combined with the profound political failure to reckon with the power of nationalism in the archipelago, echoes the New Deal's relation to the Navajo nation on the mainland—another decidedly colonial arrangement where no amount of material accomplishment could overcome the inability of the reformers to grapple with the strength of a faction preferring independence. In both cases, the New Deal reformers found themselves frustrated not chiefly by right-wing opposition, but by their own incapacity to reckon with the power of nationalism.
 :::
 
 ## 
@@ -296,7 +324,7 @@ The dramatic material successes of the New Deal in Puerto Rico, combined with th
 ![](./media_onedrive/dtip_maps/dtip.png){fig-align="center"}
 
 :::{.notes}
-Looking at the New Deal in the territories thus provides an analytical advantage that helps us to sort out the ultimate nature of the Roosevelt program for reform. The one thing pretty much all scholars of the New Deal agree on is that it never went as far as it might have; it was, as William Leuchtenburg said in 1963, a "halfway revolution."[@leuchtenburgFranklinRooseveltNew1963, p. 347] The question is why. 
+Looking at the New Deal in the territories thus provides an analytical advantage that helps us to sort out the essential nature of the Roosevelt program for reform. The one thing pretty much all scholars of the New Deal agree on is that it never went as far as it might have; it was, as William Leuchtenburg said in 1963, a "halfway revolution."[@leuchtenburgFranklinRooseveltNew1963, p. 347] The question is why. 
 
 Many scholars hold that Roosevelt himself, together with other major New Dealers, had moderate ideological beliefs—that the New Deal was self-limiting and never aimed to go more than halfway. There are two schools of thought, here, which we might describe as that the New Deal was quite moderate (derogatory)—that's the position of New Left scholars from Barton J. Bernstein through Colin Gordon—and one is that the New Deal was quite moderate (complimentary)—which remains the position of many biographers and popular historians including notably David M. Kennedy.
 
